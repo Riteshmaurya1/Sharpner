@@ -1,0 +1,27 @@
+Qs1. Print Pattern 
+*
+* *
+* * *
+* * * *
+* * * * *
+* * * * *
+* * * *
+* * *
+* *
+*
+
+
+
+Qs2. Given a square matrix. Return the maximum number from the both diagonals.
+1 2 3
+4 5 6
+7 8 9
+OP:- 9 7
+
+
+Qs3. There are N Students in a classroom. the students which are presents are in the array
+present[], one student is absent in the class.Find and return the number of that strudent 
+who is absent.
+present[] = [1,2,3,5];
+O/p :- 4
+
